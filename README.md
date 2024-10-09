@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on **for community building and growing gaming projects.**
 
-- 📝 I love diving **into topics like web development, Python, and game servers (RageMP/FiveM). Currently, I'm working on projects like EpicRP and more!**
-
 - 💬 Ask me about **Python, web development, and game server scripting.**
 
 - 📫 How to reach me **ishan@sbit.in**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ishanadi](www.linkedin.com/in/ishanadi)
 
-- ⚡ Fun fact **love experimenting with creative role-play scenarios in gaming!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
