@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Aditya</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo-565&label=Profile%20views&color=0e75b6&style=flat" alt="jojo-565" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ishanadi565" target="blank"><img src="https://img.shields.io/twitter/follow/ishanadi565?logo=twitter&style=for-the-badge" alt="ishanadi565" /></a> </p>
+<h3 align="center">A passionate student trying to learn as much as he can in tech field</h3>
 
 - 🔭 I’m building **my skills in web development while managing and improving Epic, a GTA5 Roleplay Management group.**
 
