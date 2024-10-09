@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojo-565" alt="jojo-565" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ishanadi565" target="blank"><img src="https://img.shields.io/twitter/follow/@ishanadi565?logo=twitter&style=for-the-badge" alt="@ishanadi565" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishanadi565" target="blank"><img src="https://img.shields.io/twitter/follow/ishanadi565?logo=twitter&style=for-the-badge" alt="ishanadi565" /></a> </p>
 
 - 📫 How to reach me **ishan@sbit.in**
 
