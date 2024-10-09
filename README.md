@@ -3,17 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo-565&label=Profile%20views&color=0e75b6&style=flat" alt="jojo-565" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ishanadi565" target="blank"><img src="https://img.shields.io/twitter/follow/@ishanadi565?logo=twitter&style=for-the-badge" alt="@ishanadi565" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishanadi565" target="blank"><img src="https://img.shields.io/twitter/follow/ishanadi565?logo=twitter&style=for-the-badge" alt="ishanadi565" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script & C++**
+- 🔭 I’m building **my skills in web development while managing and improving Epic, a GTA5 Roleplay Management group.**
+
+- 🌱 I’m currently learning **new tools like JavaScript, C, and improving my Python for future projects.**
+
+- 👯 I’m looking to collaborate on **for community building and growing gaming projects.**
+
+- 📝 I love diving **into topics like web development, Python, and game servers (RageMP/FiveM). Currently, I'm working on projects like EpicRP and more!**
+
+- 💬 Ask me about **Python, web development, and game server scripting.**
 
 - 📫 How to reach me **ishan@sbit.in**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ishanadi](www.linkedin.com/in/ishanadi)
 
+- ⚡ Fun fact **love experimenting with creative role-play scenarios in gaming!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ishanadi565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishanadi565" height="30" width="40" /></a>
+<a href="https://twitter.com/ishanadi565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishanadi565" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishan aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/iajha_565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iajha_565" height="30" width="40" /></a>
 </p>
